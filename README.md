@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Musically 🎵
 
 Welcome to Musically, your go-to music application with a clean and fully responsive UI, bringing the magic of music to your fingertips.
@@ -72,3 +73,6 @@ Contributions are welcome! Feel free to open issues or create pull requests for 
 - Gratitude to the open-source community.
 
 Let the music play! 🎶✨
+=======
+# musically
+>>>>>>> a7f0b4054066bf5100991c71d4fdc08fdb687896
